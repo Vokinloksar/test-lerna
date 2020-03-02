@@ -1,5 +1,5 @@
 {
-  "name": "@vokinloksar/foobar",
+  "name": "test-@vokinloksar/foobar",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vokinloksar/bar": "file:../bar",
-    "@vokinloksar/foo": "file:../foo"
-  }
+    "@vokinloksar/bar": "^1.0.2",
+    "@vokinloksar/foo": "^1.0.2"
+  },
+  "gitHead": "424f430daf970445bb942b235ebbd91030d49770"
 }
