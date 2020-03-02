@@ -1,5 +1,5 @@
-const foo = require("foo")
-const bar = require("bar")
+const foo = require("@vokinloksar/foo")
+const bar = require("@vokinloksar/bar")
 
 console.log(foo, bar)
 

@@ -1,6 +1,6 @@
 {
-  "name": "foobar",
-  "version": "1.0.1",
+  "name": "@vokinloksar/foobar",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bar": "file:../bar",
-    "foo": "file:../foo"
+    "@vokinloksar/bar": "file:../bar",
+    "@vokinloksar/foo": "file:../foo"
   }
 }
