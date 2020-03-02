@@ -1,0 +1,12 @@
+0 silly argv { _: [ 'publish' ],
+0 silly argv   composed: 'publish',
+0 silly argv   lernaVersion: '3.20.2',
+0 silly argv   '$0': 'node_modules/.bin/lerna' }
+1 notice cli v3.20.2
+2 verbose rootPath /home/octave/git/repos/test-lerna
+3 error Error: Invalid package name "test-@vokinloksar/foo": name can only contain URL-friendly characters
+3 error     at invalidPackageName (/home/octave/git/repos/test-lerna/node_modules/npm-package-arg/npa.js:86:15)
+3 error     at Result.setName (/home/octave/git/repos/test-lerna/node_modules/npm-package-arg/npa.js:121:11)
+3 error     at new Result (/home/octave/git/repos/test-lerna/node_modules/npm-package-arg/npa.js:111:23)
+3 error     at Function.resolve (/home/octave/git/repos/test-lerna/node_modules/npm-package-arg/npa.js:58:15)
+3 error     at new Package (/home/octave/git/repos/test-lerna/node_modules/@lerna/package/index.js:36:26)
