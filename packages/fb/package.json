@@ -1,6 +1,6 @@
 {
   "name": "test-vokinloksar-foobar",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "gitHead": "3bd892bc55fa6f4062b5065d0b8d0b7f02b93b36",
   "dependencies": {
     "test-vokinloksar-bar": "^1.0.5",
-    "test-vokinloksar-foo": "^1.0.5"
+    "test-vokinloksar-foo": "^1.0.8"
   }
 }
