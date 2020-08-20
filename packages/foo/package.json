@@ -1,5 +1,5 @@
 {
-  "name": "foo",
+  "name": "test-vokinloksar-foo",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "3bd892bc55fa6f4062b5065d0b8d0b7f02b93b36"
 }
