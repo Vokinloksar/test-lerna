@@ -427,7 +427,7 @@
     "static-extend": "^0.1.2",
     "split2": "^2.2.0",
     "stream-each": "^1.2.3",
-    "ssri": "^6.0.1",
+    "ssri": "^8.0.1",
     "string.prototype.trimleft": "^2.1.1",
     "string_decoder": "^1.1.1",
     "string.prototype.trimright": "^2.1.1",
